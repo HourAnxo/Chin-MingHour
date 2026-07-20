@@ -42,9 +42,13 @@ I am a Computer Science student passionate about building scalable applications 
 
 
 
-## 📊 GitHub Stats
+## 🎯 Career Goals
+Become a Full Stack Software Engineer
+Grow into a Data Engineer / Data Analyst role
+Work on large-scale distributed systems
+Contribute to impactful real-world products
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HourAnxo&show_icons=true&theme=dark)
+
 
 ---
 
