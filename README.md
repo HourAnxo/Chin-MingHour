@@ -44,10 +44,10 @@ I am a Computer Science student passionate about building scalable applications 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github.com/HourAnxo/E-commerce-food-system.git)
+![Stats](https://github-readme-stats.vercel.app/api?username=HourAnxo&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Contact Me
 - GitHub: https://github.com/yourusername
-- Email: your@email.com
+- Email: Minghour648@gmail.com
